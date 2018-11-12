@@ -1,5 +1,8 @@
 # Simple Input trigger React
 
+##Demo
+https://ashwinsingh2007.github.io/InputTrigger/index.html
+
 ## Description
 
 Useful for building applications that need Slack-like emoji suggestions (triggered by typing `:`) or Github-like user mentions (triggered by typing `@`).
